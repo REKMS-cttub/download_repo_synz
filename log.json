@@ -1,7 +1,7 @@
 {
   "Version" : "2.631",
   "Changelog" : {
-    "data" : "[UI] $br[~] Fixed 'Save' button on tab not saving$br[~] Fixed launch button check-page not showing$br[~] Fixed  toolbar not following theme$br[+] Added 'Reset all settings' button$br[-] Removed Inactive/Active(Zenith mode)$br[-] Removed HideSideBar button"
+    "data" : "[UI] Reworked zenith mode $br [Executor] Fixed monaco editor now following theme $br [Settings] Rewrote lots of things idk what"
   },
   "Annc" : {
     "data" : "Released!!!!!!!"
