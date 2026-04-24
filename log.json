@@ -1,9 +1,9 @@
 {
-  "Version" : "2.631",
-  "Changelog" : {
-    "data" : "[UI] Reworked zenith mode $br [Executor] Fixed monaco editor now following theme $br [Settings] Rewrote lots of things idk what"
+  "Version": "2.632",
+  "Changelog": {
+    "data": "[UI] Terminal background now follows Monaco editor theme (panelBg + backdropFilter) $br [UI] Terminal header bar unified with editor tone $br [Fix] Removed unused cursorDotColor causing build failure"
   },
-  "Annc" : {
-    "data" : "Released!!!!!!!"
+  "Annc": {
+    "data": "Released!!!!!!!"
   }
 }
