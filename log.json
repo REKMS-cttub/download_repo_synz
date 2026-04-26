@@ -1,7 +1,7 @@
 {
-  "Version": "2.632",
+  "Version": "B-0.1",
   "Changelog": {
-    "data": "[UI] Terminal background now follows Monaco editor theme (panelBg + backdropFilter) $br [UI] Terminal header bar unified with editor tone $br [Fix] Removed unused cursorDotColor causing build failure"
+    "data": "Beta"
   },
   "Annc": {
     "data": "Released!!!!!!!"
