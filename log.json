@@ -1,7 +1,7 @@
 {
-  "Version": "0.3",
+  "Version": "0.4",
   "Changelog": {
-    "data": "[BETA-TIP] this UI is still in beta version. $br [UI] Fixed sidebar not totally following theme"
+    "data": "[BETA-TIP] this UI is still in beta version. $br [UI] Added 3 beta options $br Fixed notification problems $br Changed INACTIVE,ACTIVE to Inactive,Active $br Changed 'V2' RGB in titlebar $br Fixed some shader problems $br Fixed execute without any client connection always says executed/success $br Edited sidememu Icons,change back to zenith in next version "
   },
   "Annc": {
     "data": "Released!!!!!!!"
