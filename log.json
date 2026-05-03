@@ -1,7 +1,7 @@
 {
-  "Version": "0.4",
+  "Version": "0.5",
   "Changelog": {
-    "data": "[BETA-TIP] this UI is still in beta version. $br [UI] Added 3 beta options $br Fixed notification problems $br Changed INACTIVE,ACTIVE to Inactive,Active $br Changed 'V2' RGB in titlebar $br Fixed some shader problems $br Fixed execute without any client connection always says executed/success $br Edited sidememu Icons,change back to zenith in next version "
+    "data": "[UI] Added Mobile Executors mode with floating icon & SideMenu window $br [UI] SideMenu follows theme accent color instead of fixed purple $br [UI] Floating button is now a standalone 32x32 window with transparent background $br [UI] Added exit button with confirmation in Mobile mode $br [UI] Added 'back to button' to close SideMenu and return to floating icon $br [UI] Removed close/minimize buttons from mobile sub-pages $br [UI] All mobile mode windows hidden from taskbar $br [Search] Search now filters across Scripts, Workspace, Autoexec, and Favorites $br [Search] Auto-expands all sections during search, hides empty sections $br [Editor] Added Markdown preview for .md files $br [Editor] Added binary file confirmation prompt (VSCode-style) $br [Editor] Files without extension now open as text by default $br [UI] Default page replaced with Markdown user manual $br [UI] Tab title changed from 'Workspace' to 'User Manual' $br [Fix] Context menus now render via Portal to always appear on top $br [Fix] Fixed non-text file preview (images, audio, video) via asset protocol $br [Fix] Fixed tauri.conf.json assetProtocol scope type errors $br [Fix] Fixed Sidebar not showing in embedded Editor $br [Fix] Fixed Notifications only showing in Editor $br [Fix] Fixed Editor frosted glass background issue in mobile mode $br [Fix] Fixed Dashboard closing immediately in mobile mode $br [Fix] Fixed SideMenu and titlebar color change when opening Editor "
   },
   "Annc": {
     "data": "Released!!!!!!!"
